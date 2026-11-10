@@ -11,7 +11,6 @@ Audio & acoustics engineer in Copenhagen. Senior Audio & Embedded Software QA En
 - 🔊 **Audio verification**: system verification and test strategy for Bluetooth audio products, embedded HW/SW integration, DSP validation
 - 🥋 **Ukemi Sound Trainer**: real-time pose estimation with auditory feedback for the judo breakfall, aimed at fall prevention in older adults. Invited talk at Tokai University, Japan, Dec 2026 → [try the prototype](https://liapikou.github.io/the_ukemi_trainer/)
 - 🎧 **Audiotactile listening**: vibration lowers preferred headphone levels ([JASA Express Letters, 2024](https://doi.org/10.1121/10.0024516))
-- 🎹 **CamJam**: a camera-based, accessible instrument for collaborative music-making ([NIME 2026](https://doi.org/10.5281/zenodo.20784455))
 
 #### Tools
 
