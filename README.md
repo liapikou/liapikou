@@ -2,7 +2,7 @@
 
 Audio & acoustics engineer in Copenhagen. Senior Audio & Embedded Software QA Engineer at **Bang & Olufsen**, independent researcher in **psychoacoustics, haptics and movement sonification**, and DJ/producer as **Irén**.
 
-🌐 **Portfolio:** [liapikou.github.io]([https://liapikou.github.io](https://liapikou.github.io/eliaCV/))
+🌐 **Portfolio:** [liapikou.github.io]((https://liapikou.github.io/eliaCV/))
 
 ---
 
